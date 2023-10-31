@@ -362,7 +362,7 @@
                 <h3>Maldives Sightseeing and Adventure Tour Package (3 days & 2 nights)</h3>
                 <p>A world-class holiday awaits you in the Maldives with us as your perfect travel companion to make it all work smoother than smooth. With us, you have the chance to choose the best island resorts in the Maldives along with a plethora of water sports activities that can make your vacation something to cherish forever in memories.</p>
                 <div class="price">&#8377; 39,037</div>
-                <a href="book_maldives.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -374,7 +374,7 @@
                 <h3>Char Dham Yatra Package(6 days & 5 nights) </h3>
                 <p>Travellers of all kinds can get the best tourism opportunities in Uttarakhand, the Himalayan state in India, with our various Uttarakhand sightseeing tour packages.Char Dham Yatra is one of the most important pilgrimages in India and holds high religious significance.</p>
                 <div class="price">&#8377; 12,000</div>
-                <a href="book_CharDham.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -386,7 +386,7 @@
                 <h3>Rishikesh Hiking (8 days & 7 nights)</h3>
                 <p>They say, “There is no Wi-Fi in the mountains, but you will find a better connection”. Covering vast landscapes, stunning views, scenic beauty and surprises, the best hikes in India are experiences to revel in.</p>
                 <div class="price">&#8377; 15,081 </div>
-                <a href="book_Rishikesh.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -398,7 +398,7 @@
                 <h3>Ladakh Package (4 days & 3 nights)</h3>
                 <p>Ladakh is the land of lamas — full of high passes, alpine lakes and a Buddhist culture that’s still very much alive. Ladakh is one of the most popular destinations among adventure tourists, riders, photographers, and all kinds of outdoor enthusiasts. It can be reached by rail road and train networks. However, be prepared for a lot of off roading to reach your destination. There are a couple of routes you can take to reach the valley</p>
                 <div class="price">&#8377; 28,091 </div>
-                <a href="book_ladakh.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -410,7 +410,7 @@
                 <h3>Kerala Tour Package (4 days & 3 nights)</h3>
                 <p>Our Kerala Package will include various offers. Called as God’s Own Country, Kerala has something for tourists from all walks of life and tastes like family tour planners, group tour, nature lovers and adventure tour enthusiasts too. So what are you waiting for, come and explore Kerala!!</p>
                 <div class="price">&#8377; 15,000 </div>
-                <a href="book_kerala.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 
@@ -419,10 +419,10 @@
                 <img src="images/d.jpg" alt="">
             </div>
             <div class="content">
-                <h3>Dubai Desert Safari Package (5 days & 4 nights</h3>
+                <h3>Dubai Desert Safari Package (5 days & 4 nights)</h3>
                 <p>Our tour packages to Dubai will make you experience the world’s biggest suspended aquarium at Dubai Mall, will take you on a 4X4 desert safari ride and will entertain you with other activities like belly dancing.No visit to Dubai is complete without being on the top of the world i.e on the 124th floor of Burj Khalifa where you can enjoy the 360 degrees top view of the mesmerizing city.</p>
                 <div class="price">&#8377; 45,000 </div>
-                <a href="book_dubai.php" class="btn">Book Now</a>
+                <a href="" class="btn">Book Now</a>
             </div>
         </div>
 

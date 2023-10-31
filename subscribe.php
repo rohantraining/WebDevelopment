@@ -1,6 +1,6 @@
 <?php
 
-   $connection = mysqli_connect('localhost:3306','root','','subscribe_db');
+   $connection = mysqli_connect('localhost:3308','root','','subscribe_db');
 
    if(isset($_POST['send'])){
       $email = $_POST['email'];
